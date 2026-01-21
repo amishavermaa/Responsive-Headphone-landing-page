@@ -35,20 +35,6 @@ Responsive-Headphone-landing-page-Website/
 
 ```
 
-## 🌐 Live Demo
-
-> [Click here to view the live project](https://poorvimathur22.github.io/Responsive-Headphone-landing-page-Website/)
-
-## 💡 How to Use
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/poorvimathur22/Responsive-Headphone-landing-page-Website.git
-   cd Responsive-Headphone-landing-page-Website
-   ```
-
-2. **Open `index.html` in your browser**
-
 ## 🧠 Future Enhancements
 
 - Add real backend (Firebase/Node) for storing user data
